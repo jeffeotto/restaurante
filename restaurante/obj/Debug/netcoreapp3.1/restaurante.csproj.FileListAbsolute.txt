@@ -1,0 +1,12 @@
+/Users/jeffeotto/Projects/restaurante/restaurante/bin/Debug/netcoreapp3.1/restaurante.deps.json
+/Users/jeffeotto/Projects/restaurante/restaurante/bin/Debug/netcoreapp3.1/restaurante.runtimeconfig.json
+/Users/jeffeotto/Projects/restaurante/restaurante/bin/Debug/netcoreapp3.1/restaurante.runtimeconfig.dev.json
+/Users/jeffeotto/Projects/restaurante/restaurante/bin/Debug/netcoreapp3.1/restaurante.dll
+/Users/jeffeotto/Projects/restaurante/restaurante/bin/Debug/netcoreapp3.1/restaurante.pdb
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.csprojAssemblyReference.cache
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.csproj.CoreCompileInputs.cache
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.AssemblyInfoInputs.cache
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.AssemblyInfo.cs
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.dll
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.pdb
+/Users/jeffeotto/Projects/restaurante/restaurante/obj/Debug/netcoreapp3.1/restaurante.genruntimeconfig.cache
